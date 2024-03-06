@@ -1,0 +1,5 @@
+/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/Resize_4704e36c81/obj/Debug/net7.0/Resize_4704e36c81.csproj.AssemblyReference.cache
+/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/Resize_4704e36c81/obj/Debug/net7.0/Resize_4704e36c81.GeneratedMSBuildEditorConfig.editorconfig
+/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/Resize_4704e36c81/obj/Debug/net7.0/Resize_4704e36c81.AssemblyInfoInputs.cache
+/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/Resize_4704e36c81/obj/Debug/net7.0/Resize_4704e36c81.AssemblyInfo.cs
+/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/Resize_4704e36c81/obj/Debug/net7.0/Resize_4704e36c81.csproj.CoreCompileInputs.cache
