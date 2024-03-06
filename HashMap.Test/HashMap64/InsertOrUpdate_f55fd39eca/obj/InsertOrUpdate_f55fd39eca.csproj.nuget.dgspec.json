@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/InsertOrUpdate_f55fd39eca/InsertOrUpdate_f55fd39eca.csproj": {}
+  },
+  "projects": {
+    "/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/InsertOrUpdate_f55fd39eca/InsertOrUpdate_f55fd39eca.csproj": {
+      "version": "7.0.0",
+      "restore": {
+        "projectUniqueName": "/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/InsertOrUpdate_f55fd39eca/InsertOrUpdate_f55fd39eca.csproj",
+        "projectName": "InsertOrUpdate_f55fd39eca",
+        "projectPath": "/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/InsertOrUpdate_f55fd39eca/InsertOrUpdate_f55fd39eca.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/InsertOrUpdate_f55fd39eca/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

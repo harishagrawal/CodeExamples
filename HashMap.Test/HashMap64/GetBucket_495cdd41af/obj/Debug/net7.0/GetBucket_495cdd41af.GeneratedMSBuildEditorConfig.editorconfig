@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GetBucket_495cdd41af
+build_property.ProjectDir = /var/tmp/Roost/RoostGPT/se-code/181c0aff-1406-4811-8c3f-71027d7fbb2d/CodeExamples/HashMap.Test/HashMap64/GetBucket_495cdd41af/
